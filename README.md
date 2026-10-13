@@ -68,5 +68,8 @@ This repository contains the project files, including the analysis code, dashboa
 ## Author
 
 Rogina Wagih
+## Dashboard Preview
+
+![Customer Churn Dashboard](Customer_Churn_Dashboard.jpg)
 
 Data Analysis Project
