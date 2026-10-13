@@ -8,6 +8,12 @@ An end-to-end data analytics project exploring customer churn in the telecommuni
 
 ![Customer Churn Dashboard](Customer_Churn_Dashboard.jpg)
 
+## 🎥 Dashboard Demo Video
+
+Watch the Customer Churn Analysis dashboard walkthrough:
+
+[▶️ Watch the Dashboard Demo](https://drive.google.com/file/d/1xNiKYOBmy8ngsfm_9yboJO-zwEOy8NHm/view?usp=drivesdk)
+
 ## 🎯 Business Objectives
 
 * Measure overall customer churn and identify high-risk segments.
